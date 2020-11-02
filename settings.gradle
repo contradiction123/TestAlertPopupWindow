@@ -1,0 +1,3 @@
+include ':alertPopupWindow'
+include ':app'
+rootProject.name = "TestAlertPopupWindow"
