@@ -9,11 +9,6 @@
 ![RUNOOB 图标](https://github.com/contradiction123/TestAlertPopupWindow/tree/master/image/S01102-14085954.png)
 ![RUNOOB 图标](https://github.com/contradiction123/TestAlertPopupWindow/tree/master/image/S01102-14103372.png)
 ![RUNOOB 图标](https://github.com/contradiction123/TestAlertPopupWindow/tree/master/image/S01102-14103918.png)
-![RUNOOB 图标](https://m.qpic.cn/psc?/V11I2D9s16ERe3/ruAMsa53pVQWN7FLK88i5lgJRO6tu.L0YA4U*RSFN.orI7GRmLTXEad*vDWP3QXA0b7kaXT7XCUqUZYzdLDNwfIqdZYqvfd5EDiuvfbMhoo!/b&bo=OAS4CAAAAAADB64!&rf=viewer_4&t=5)
-![RUNOOB 图标](http://m.qpic.cn/psc?/V11I2D9s16ERe3/45NBuzDIW489QBoVep5mcYU.rOclq58qPWhwzL0VkELoHqhGv.nSd7zOKkqvgDcQweUFhuqAK3fNSAul*1bFpCn5wj1oUDeKeY5Q6QK0pTU!/b&bo=OAS4CAAAAAADF74!&rf=viewer_4&t=5)
-![RUNOOB 图标](http://m.qpic.cn/psc?/V11I2D9s16ERe3/45NBuzDIW489QBoVep5mcYU.rOclq58qPWhwzL0VkEKXdhDGGq.9wHluGAPKlzrytRNB3.i1gMzC5r4*ei2C.HgYR.N*GKSSO5Z9dnI1SCQ!/b&bo=OAS4CAAAAAADF74!&rf=viewer_4&t=5)
-
-
 
 ## 版本--  com.github.contradiction123:TestAlertPopupWindow:1.0.0
 
