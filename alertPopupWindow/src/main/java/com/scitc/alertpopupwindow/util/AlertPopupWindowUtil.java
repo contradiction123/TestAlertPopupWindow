@@ -282,9 +282,9 @@ public class AlertPopupWindowUtil {
         return this;
     }
     /**
-     * 设置-锚点的宽度
+     * 设置-锚点的高度
      * 对外暴露
-     * @param tipHeightDp 锚点的宽度
+     * @param tipHeightDp 锚点的高度
      */
     public AlertPopupWindowUtil setTipHeightDp(int tipHeightDp) {
         if(alertTextDialog!=null) {
@@ -297,13 +297,12 @@ public class AlertPopupWindowUtil {
      * 对外暴露
      * @param tipWidthDp 锚点的宽度
      */
-    public AlertPopupWindowUtil setTipWidthDp(int tipWidthDp) {
+    public AlertPopupWindowUtil setTipWidthDp(float tipWidthDp) {
         if(alertTextDialog!=null) {
             alertTextDialog.setTipWidthDp(tipWidthDp);
         }
         return this;
     }
-
     /**
      * 设置-对准点的-X
      * 对外暴露
@@ -374,17 +373,7 @@ public class AlertPopupWindowUtil {
         }
         return this;
     }
-    /**
-     * 设置-锚点的宽度
-     * 对外暴露
-     * @param tipWidthDp 锚点的宽度
-     */
-    public AlertPopupWindowUtil setTipWidthDp(float tipWidthDp) {
-        if(alertTextDialog!=null) {
-            alertTextDialog.setTipWidthDp(tipWidthDp);
-        }
-        return this;
-    }
+
     /**
      * 设置-提示框-圆角的-半径
      * 对外暴露
