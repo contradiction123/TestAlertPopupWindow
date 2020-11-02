@@ -5,10 +5,10 @@
 
 
 ## 图片
-![RUNOOB 图标](image/S01102-14085413.png)
-![RUNOOB 图标](image/S01102-14085954.png)
-![RUNOOB 图标](image/S01102-14103372.png)
-![RUNOOB 图标](image/S01102-14103918.png)
+![RUNOOB 图标](https://github.com/contradiction123/TestAlertPopupWindow/tree/master/image/S01102-14085413.png)
+![RUNOOB 图标](https://github.com/contradiction123/TestAlertPopupWindow/tree/master/image/S01102-14085954.png)
+![RUNOOB 图标](https://github.com/contradiction123/TestAlertPopupWindow/tree/master/image/S01102-14103372.png)
+![RUNOOB 图标](https://github.com/contradiction123/TestAlertPopupWindow/tree/master/image/S01102-14103918.png)
 
 
 
@@ -18,18 +18,22 @@
 ## 使用
 ###第一步
 -把它加到你的根目录里生成.gradle在存储库的末尾：
+   ```java
 	allprojects {
 		repositories {
 			...
 			maven { url 'https://jitpack.io' }
 		}
 	}
+   ```
 
 ###第二步
 -添加引用
+   ```java
 	dependencies {
 	        implementation 'com.github.contradiction123:TestAlertPopupWindow:1.0.0'
 	}
+   ```
 
 
 ## 版本
